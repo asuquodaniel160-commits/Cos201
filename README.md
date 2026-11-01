@@ -1,5 +1,12 @@
-# COS 201 – Computer Programming I
-## Week 3 Assignment
+Student Name: Balogun Caleb Inioluwa
+
+Matriculation Number: 25/17426
+
+Programme: Computer Science
+
+Course: COS 201 – Computer Programming I
+
+Week: 3
 
 ### Programs submitted
 1. `SimpleCalculator.java` – Performs addition, subtraction, multiplication and division.
